@@ -25,8 +25,8 @@ function search() {
 
    `)
         }
-        document.querySelector("#js").innerHTML = `          <table class="table table-striped">
-        <thead>
+        document.querySelector("#js").innerHTML = `<table class="table">
+        <thead class="thead-dark">
           <tr>
             <th scope="col">#</th>
             <th scope="col">Flag</th>
