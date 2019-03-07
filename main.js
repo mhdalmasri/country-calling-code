@@ -34,7 +34,7 @@ function search() {
             <th scope="col">Region</th>
             <th scope="col">Capital</th>
             <th scope="col">Population</th>
-            <th scope="col">Currencie</th>
+            <th scope="col">Currency</th>
           </tr>
         </thead>
         ${show.join('')}
